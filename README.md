@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, seja bem vindo(a)!
+## Sou o Tiago Martins!
 
-<!--
-**TiagointMartins/TiagointMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ - 💻 Aspirante a Desenvolvedor Web;
+ - 😄 Gosto muito de estudar;
+ - 📚 Atualmente estudando JavaScript e Angular;
+ - 🌍 And I also like to travel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Entre em contato comigo
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/mwlite/in/tiag0martins)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:tiago.sanmart@gmail.com)
+
+
+
+
+
+
+
