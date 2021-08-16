@@ -5,12 +5,12 @@
 
 ## Sou o Tiago Martins!
 
-… Sou estudante de tecnologia e ex-aluno concluinte do bootcamp Generation Brasil, que me proporcionou ser um Desenvolvedor Full Stack jr. Estou em desenvolvimento continuo e o que tenho estudado ultimamente é Angular e JavaScript. Aqui você encontrará alguns projetos simples que desenvolvi com os conhecimentos adquiridos através dos cursos que fiz!
+… Graduando em Análise e Desenvolviemnto de Sistemas, ex-aluno concluinte do bootcamp Generation Brasil, que me proporcionou ser um Desenvolvedor Full Stack jr. Desenvolvimento continuo. Aqui você encontrará alguns projetos simples que desenvolvi com os conhecimentos adquiridos através dos cursos que fiz!
 
 
- - 💻 Aspirante a Desenvolvedor Web;
- - 😄 Gosto muito de estudar;
- - 📚 Atualmente estudando JavaScript e Angular;
+ - 💻 Estágiario - Desenvolvimento de Software;
+ - 📚 Java, Python, JavaScript, Angular, Django, Django Rest, Spring Boot;
+ - 😄 Ama estudar;
  - 🌍 And I also like to travel.
 
 
