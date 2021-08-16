@@ -9,9 +9,9 @@
 
 
  - 💻 Estágiario Desenvolvimento de Software - Itaú Unibanco ;
+ 
  - 📚 Java, Python, JavaScript, Angular, Django, Django Rest, Spring Boot;
- - 😄 Ama estudar;
-
+ 
 
 ## Entre em contato comigo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/mwlite/in/tiag0martins)
