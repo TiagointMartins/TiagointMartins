@@ -8,7 +8,7 @@
 … Graduando em Análise e Desenvolviemnto de Sistemas, ex-aluno concluinte do bootcamp Generation Brasil, que me proporcionou ser um Desenvolvedor Full Stack jr. Aprendendo continuamente. Aqui você encontrará alguns projetos simples que desenvolvi com os conhecimentos adquiridos através dos cursos que fiz!
 
 
- - 💻 Estágiario Desenvolvimento de Software - Itaú Unibanco ;
+ - 💻 Estágiario Desenvolvimento de Software - Itaú Unibanco;
  
  - 📚 Java, Python, JavaScript, Angular, Django, Django Rest, Spring Boot;
  
