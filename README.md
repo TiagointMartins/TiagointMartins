@@ -1,7 +1,6 @@
-#header {
-	border-top: 10px solid #11242e;
+
 	background: #193442;
-}
+
  <img align="right"  width="400" height="400" src="https://i.imgur.com/fJwvTqN.gif">
  
 # Olá, seja bem vindo(a)!
